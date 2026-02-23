@@ -2,8 +2,6 @@
 
 A modern, interactive React Hooks learning and debugging playground built with React 18, TypeScript, and TailwindCSS.
 
-![React Hook Studio Screenshot](./screenshots/preview.png)
-
 ## 🚀 Features
 
 - **Interactive Hook Examples**: Hands-on learning with live, editable code examples
